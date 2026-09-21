@@ -1,3 +1,4 @@
 # SC_302_Documentacion_MN_SebastianSalasSolis
 Esta es mi primera práctica con GitHub.
-"Argegue una linea al Git"
+"Agregue una linea al README"
+Estoy trabajando en una rama nueva
